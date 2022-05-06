@@ -18,3 +18,9 @@ main()
     printf("program completed \n");
         
 }
+
+
+/* Output:-
+value of flag is less than 3
+a = 16, b = 4
+program completed */
