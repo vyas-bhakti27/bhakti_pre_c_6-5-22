@@ -22,3 +22,9 @@ main()
     printf("program completed \n");
         
 }
+
+/* Output:-
+value of flag  is 1
+a = 19, b = 3
+program completed 
+
